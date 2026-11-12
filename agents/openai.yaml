@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Data Trace"
+  short_description: "用 Scrapling 采集网页，用 REA 追踪数据来源与交互"
+  default_prompt: "使用 $web-data-trace 分析这个页面的数据来源，并验证一个可复现的提取方式。"
